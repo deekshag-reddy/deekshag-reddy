@@ -1,4 +1,4 @@
-## Hi there 
+
 # Hi, I'm Deeksha 👋
 
 I'm a Statistics & Data Science student at the University of Arizona (minoring in Entrepreneurship and Innovation), interested in the intersection of **data, finance, and strategy**. I like turning messy data into decisions — whether that's modeling investment risk, building a BI dashboard, or automating a workflow.
