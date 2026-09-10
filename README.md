@@ -21,7 +21,7 @@ I'm a Statistics & Data Science student at the University of Arizona (minoring i
 `SQL` `Python` `R` `Power BI` `Excel` `React.js` `Cypress` `Airtable` `Financial Modeling` `Risk Analysis`
 
 ### Featured Projects
-- **1. fintrackr
+1. fintrackr
 
 Description: An R package for personal finance analysis — budgeting, transaction analysis, investment growth modeling, debt repayment projections, and financial data visualization.
 
