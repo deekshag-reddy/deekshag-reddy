@@ -21,13 +21,14 @@ I'm a Statistics & Data Science student at the University of Arizona (minoring i
 `SQL` `Python` `R` `Power BI` `Excel` `React.js` `Cypress` `Airtable` `Financial Modeling` `Risk Analysis`
 
 ### Featured Projects
-*(pin these on your profile — see below)*
-- **[Project Name]** — one-line description of what it does and why it matters
-- **[Project Name]** — one-line description of what it does and why it matters
-- **[Project Name]** — one-line description of what it does and why it matters
+- **1. fintrackr
 
----
-📍 Tucson, AZ
+Description: An R package for personal finance analysis — budgeting, transaction analysis, investment growth modeling, debt repayment projections, and financial data visualization.
+
+2. covid-factor-structural-break
+
+Description: Analyzes whether COVID-19 triggered a structural break in equity factor-return relationships, using Fama-French factors and industry portfolios (2010–2025). Built ANCOVA models across sectors (Consumer NonDurables, Manufacturing, Retail) to test whether Value, Profitability, and Momentum exposures shifted after March 2020, with diagnostics and F-tests comparing full vs. reduced models.
+
 
 
 <!--
